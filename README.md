@@ -15,7 +15,7 @@ The following **required** user stories are complete:
 
 The following **stretch** user stories are implemented:
 
-- [ ] User sees a custom annotation (+1pt)
+- [x] User sees a custom annotation (+1pt)
 - [ ] User can see Fullscreen Picture (+1pt)
 - [ ] User sees a custom image for the "pin" (+1pt)
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
@@ -29,7 +29,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/JmqpvN8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
